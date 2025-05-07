@@ -1,3 +1,5 @@
 rózsa
 tulipán
 kaktusz
+paradicsom
+zellerlevél
